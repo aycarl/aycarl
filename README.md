@@ -15,7 +15,7 @@ A mobile-first, virtual notice board Progressive Web App (PWA) optimized for glo
 * **Under the Hood:** Built on an edge-computing architecture with automated deployment pipelines to support high-frequency feature testing and sub-second client-side latency.
 
 ### [HazMind](https://hazmind.com)
-A production-ready application powered by a custom decision logic engine designed to optimize workflow pathways.
+A hazardous waste classification tool guided by the U.S.A. EPA's RCRA characteristics.
 * **The Tech:** Cloudflare, SvelteKit, TypeScript.
 * **Under the Hood:** Architected around high-speed edge routing and a lightweight data architecture to deliver secure, near-instantaneous decision-tree evaluation.
 
