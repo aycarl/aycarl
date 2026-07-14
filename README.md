@@ -3,7 +3,7 @@
 I am a Senior Software Developer based in Toronto, ON. I specialize in building high-performance web architectures and cloud-native platforms—bridging the gap between strict system engineering and intuitive UI/UX. 
 
 
-[aycarl.com](https://aycarl.com) | [linkedin.com/in/aycarl](https://linkedin.com/in/aycarl)[cite: 1]
+[aycarl.com](https://aycarl.com) | [linkedin.com/in/aycarl](https://linkedin.com/in/aycarl)
 
 ---
 
