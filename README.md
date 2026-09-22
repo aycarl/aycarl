@@ -7,17 +7,17 @@ I am a Senior Software Developer based in Toronto, ON. I specialize in building 
 
 ---
 
-## 🚀 Active Projects (With Real Users)
+## 🚀 Active Projects 
+
+### [HazMind](https://hazmind.com) (With Real Users)
+A hazardous waste classification tool guided by the U.S.A. EPA's RCRA characteristics.
+* **The Tech:** Cloudflare, SvelteKit, TypeScript.
+* **Under the Hood:** Architected around high-speed edge routing and a lightweight data architecture to deliver secure, near-instantaneous decision-tree evaluation.
 
 ### [TackShare](https://tackshare.com)
 A mobile-first, virtual notice board Progressive Web App (PWA) optimized for global content delivery and real-time synchronization.
 * **The Tech:** Svelte, Tailwind CSS, Cloudflare Workers, GCP & Google Firebase.
 * **Under the Hood:** Built on an edge-computing architecture with automated deployment pipelines to support high-frequency feature testing and sub-second client-side latency.
-
-### [HazMind](https://hazmind.com)
-A hazardous waste classification tool guided by the U.S.A. EPA's RCRA characteristics.
-* **The Tech:** Cloudflare, SvelteKit, TypeScript.
-* **Under the Hood:** Architected around high-speed edge routing and a lightweight data architecture to deliver secure, near-instantaneous decision-tree evaluation.
 
 ---
 
