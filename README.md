@@ -1,6 +1,6 @@
 # Hi, I'm Carl Yao Agbenyega 👋
 
-I am a Senior Software Developer based in Toronto, ON. I specialize in building high-performance web architectures and cloud-native platforms—bridging the gap between strict system engineering and intuitive UI/UX. 
+I am a Senior Software Developer based in Ontario, Canada. I specialize in building high-performance web architectures and cloud-native platforms—bridging the gap between strict system engineering and intuitive UI/UX. 
 
 
 [aycarl.com](https://aycarl.com) | [linkedin.com/in/aycarl](https://linkedin.com/in/aycarl)
@@ -25,7 +25,8 @@ A mobile-first, virtual notice board Progressive Web App (PWA) optimized for glo
 
 * **Frontend:** TypeScript, React, Svelte, Redux, Tailwind CSS, D3.js.
 * **Backend & Runtimes:** Python (Django / DRF), C# (.NET Core), Node.js.
-* **Cloud & DevOps:** Linux, Docker, Cloudflare Workers, Ansible, Jenkins, PostgreSQL, Oracle SQL.
+* **AI Systems & Tools:** LLM integration, LangChain/LangGraph, Prompt Engineering | Claude Code, Google Antigravity, GitHub Copilot
+* **Cloud & DevOps:** AWS, Cloudflare, Linux, Docker, Ansible, Jenkins, PostgreSQL, Oracle SQL.
 * **Observability & DX:** Grafana, Prometheus, OpenTelemetry, AI-driven prototyping, MCP server integration.
 
 ---
